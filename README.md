@@ -1,7 +1,8 @@
 # nodejs-project-demo
 
-Requirements: 
+# Requirements: 
   Linux (Built in Ubuntu 16.04)
+  
   Docker Installed : sudo apt-get install docker.io
   
 Step 1: Create project dir: sudo mkdiir ~/"NEW DIRECTORY"
