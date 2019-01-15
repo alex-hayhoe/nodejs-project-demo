@@ -15,6 +15,7 @@ Step 3: Edit index.html or css files to suit requirements:
 
 Step 3.5: Commit and push changes: sudo git add . & sudo git commit -m "COMMIT MESSAGE HERE"
  & sudo git push origin master
+
 Step 4: Build Docker Image: sudo docker build -t "YOURDOCKERUSERNAME"/"DOCKERIMAGENAME" .
 
 Step 5 (Optional): Login to your Docker repo: sudo docker login -u "DOCKERUSERNAME" -p "DOCKERPASSWORD"
