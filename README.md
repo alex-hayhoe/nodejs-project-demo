@@ -4,7 +4,9 @@
   Linux (Built in Ubuntu 16.04)
   
   Docker Installed : sudo apt-get install docker.io
-  
+
+# Instructions
+
 Step 1: Create project dir: sudo mkdiir ~/"NEW DIRECTORY"
 
 Step 2: Clone repo into dir: sudo git clone https://github.com/alex-hayhoe/nodejs-project.demo.git
